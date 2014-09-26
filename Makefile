@@ -7,7 +7,7 @@
 ################################################################################
 
 ## Project Configuration
-PRO_NAME=BioFoV
+PRO_NAME=application
 PRO_FILE=application/application.pro
 
 ## System info
@@ -63,3 +63,4 @@ windows: zip-windows
 ################################################################################
 
 all: windows
+
